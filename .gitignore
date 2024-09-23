@@ -1,0 +1,5 @@
+.DS_Store
+Pods
+*.xcuserstate
+RickAndMorty.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+RickAndMorty.xcodeproj/project.pbxproj

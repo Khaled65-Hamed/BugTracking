@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D2BBE01-8866-4913-B6AC-1E8AD302A9B5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/UserDefaultsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "saveSharingBugDetails(bugDetails:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 4b13cea1e2a1e6b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTrackingShareExtension.BugDetails) -&gt; ()"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 4b13cea1e2a1e764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTrackingShareExtension.BugDetails) -&gt; ()"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 2d15fc00d453c3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "70FE41BA-EFDC-41D3-BE2A-5140CD083620 - 4b13cea1e2a1e787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTrackingShareExtension.BugDetails) -&gt; ()"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/Bugs View Controller/BugDescriptionTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "bindData(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca84823223be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca84823223be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "9E25A2C2-5DB2-4444-8267-F062ECDF556B - b9edca848232239f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B69762C8-2B99-4B4A-9ACF-F7307D1B7E37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "application(_:handleOpen:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/Bugs View Controller/BugDescriptionTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "bindData(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "A07F8946-2569-42B3-86FC-C8202B415CC8 - b9edca848232201b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.BugDescriptionTableViewCell.bindData(model: Swift.Optional&lt;BugTracking.BugDescriptionTableViewCellModel&gt;) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/Bugs%20View%20Controller/BugDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD9F0D73-A15E-4129-B95B-A7985E647BB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/UserDefaultsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "saveSharingBugDetails(bugDetails:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD9F0D73-A15E-4129-B95B-A7985E647BB1 - 2d15fc00d453c2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "CD9F0D73-A15E-4129-B95B-A7985E647BB1 - 4b13cea1e2a1e6b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTrackingShareExtension.BugDetails) -&gt; ()"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "CD9F0D73-A15E-4129-B95B-A7985E647BB1 - 2d15fc00d453c2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTracking.BugDetails) -&gt; ()"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "CD9F0D73-A15E-4129-B95B-A7985E647BB1 - 4b13cea1e2a1e6b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.saveSharingBugDetails(bugDetails: BugTrackingShareExtension.BugDetails) -&gt; ()"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/UserDefaultsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getSharedBugDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa0a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa0a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa0a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - edbab727610af60a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTrackingShareExtension.BugDetails&gt;&gt;"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa0a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa0a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - edbab727610af60a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTrackingShareExtension.BugDetails&gt;&gt;"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45">
+               </Location>
+               <Location
+                  uuid = "60C04F63-0EB2-4798-B188-CEBD19DA2ECA - b4154b3a0aa19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "920FD60A-77BD-47F5-98EE-36D8FC0B219A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/UserDefaultsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getSharedBugDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "920FD60A-77BD-47F5-98EE-36D8FC0B219A - b4154b3a0aa026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+               <Location
+                  uuid = "920FD60A-77BD-47F5-98EE-36D8FC0B219A - b4154b3a0aa026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+               <Location
+                  uuid = "920FD60A-77BD-47F5-98EE-36D8FC0B219A - edbab727610af68e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTrackingShareExtension.BugDetails&gt;&gt;"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+               <Location
+                  uuid = "920FD60A-77BD-47F5-98EE-36D8FC0B219A - b4154b3a0aa11f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30040678-5BE2-4C4A-ADB5-95BAC01075D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/UserDefaultsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getSharedBugDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30040678-5BE2-4C4A-ADB5-95BAC01075D6 - b4154b3a0aa11f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+               <Location
+                  uuid = "30040678-5BE2-4C4A-ADB5-95BAC01075D6 - b4154b3a0aa1ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46">
+               </Location>
+               <Location
+                  uuid = "30040678-5BE2-4C4A-ADB5-95BAC01075D6 - edbab727610af712"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTrackingShareExtension.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTrackingShareExtension.BugDetails&gt;&gt;"
+                  moduleName = "BugTrackingShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46">
+               </Location>
+               <Location
+                  uuid = "30040678-5BE2-4C4A-ADB5-95BAC01075D6 - b4154b3a0aae93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugTracking.UserDefaultsManager.getSharedBugDetails() -&gt; Swift.Optional&lt;Swift.Array&lt;BugTracking.BugDetails&gt;&gt;"
+                  moduleName = "BugTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/BugTracking/BugTracking/UserDefaultsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43B571F8-50D3-4AE4-87CD-71FD2F28DC6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F34ADCA7-5C3F-4C1A-9711-4AB07FAFC0DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/Bugs View Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "uploadToGoogleSheet(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CB751E2-D3CC-4862-90C3-694747CE3ABD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37DFE519-0C69-424B-AF34-DD63916C38D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D9DAA9A-F8A7-4A29-A896-4A742BAF78B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02048118-9917-4640-92C0-B8D597A8FD0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E536617-51DF-41AC-98CE-5F2B82260B22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8B356BF-C8CE-412B-87E0-C48A81346E48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugTracking/ApiGate Layer/CharactersApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "addDataToGoogleSheet(onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
